@@ -11,6 +11,8 @@
 
 * **Michael Chernomazov** - *Initial work* - [happy-unicorn](https://github.com/happy-unicorn)
 
+## Additional notes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

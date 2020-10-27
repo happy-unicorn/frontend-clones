@@ -4,6 +4,7 @@
 
 | Name                                                                                                       | Short Description                                          |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [ikea](https://github.com/happy-unicorn/frontend-clones/tree/main/src/ikea)                                | Frontend clone for 'IKEA' website                          |
 | ...                                                                                                        | ...                                                        |
 
 

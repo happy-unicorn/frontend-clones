@@ -1,10 +1,15 @@
 import React from 'react';
+import { Switch, Route, Redirect } from 'react-router-dom';
+import RootPage from './RootPage';
+import IkeaPage from './ikea';
 
-function App() {
+const App = () => {
   return (
-    <div>
-      Hello, world!
-    </div>
+      <Switch>
+          <Route component={RootPage} path="/" exact/>
+          <Route component={IkeaPage} path="/ikea" exact/>
+          <Redirect to="/"/>
+      </Switch>
   );
 }
 
